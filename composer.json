@@ -1,6 +1,7 @@
 {
     "require": {
       "ext-pdo": "*",
-        "vlucas/phpdotenv": "^5.4"
+        "vlucas/phpdotenv": "^5.4",
+        "vimeo/php-mysql-engine": "^0.6.1"
     }
 }
